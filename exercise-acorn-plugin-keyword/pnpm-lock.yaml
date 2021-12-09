@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  acorn: ^8.6.0
+
+dependencies:
+  acorn: 8.6.0
+
+packages:
+
+  /acorn/8.6.0:
+    resolution: {integrity: sha512-U1riIR+lBSNi3IbxtaHOIKdH8sLFv3NYfNv8sg7ZsNhcfl4HF2++BfqqrNAxoCLQW1iiylOj76ecnaUxz+z9yw==}
+    engines: {node: '>=0.4.0'}
+    hasBin: true
+    dev: false
