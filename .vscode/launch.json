@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "exercise-acorn-plugin-keyword",
+      "program": "${workspaceRoot}/acorn-plugin-keyword/src/index.js",
+      "request": "launch",
+      "type": "node"
+    }
+  ]
+}
