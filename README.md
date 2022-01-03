@@ -10,3 +10,6 @@
 
 ### auto-track
 函数插桩babel插件
+
+### auto-i18n
+基于ast，提取StringLiteral|TemplateLiteral中的字符串，并替换成intl.t(xxx)方法。

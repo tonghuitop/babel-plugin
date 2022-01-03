@@ -1,6 +1,6 @@
 const { transformFromAstSync } = require('@babel/core')
 const parser = require('@babel/parser')
-const autoTrackPlugin = require('./plugin/auto-plugin-track')
+const autoTrackPlugin = require('./plugin/auto-track-plugin')
 const fs = require('fs')
 const path = require('path')
 
